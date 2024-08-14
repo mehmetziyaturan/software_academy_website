@@ -11,4 +11,7 @@ As the screen size changes, the site content and navigation menu adapt to these 
 </ul>
 
 # Preview:
-![yazilim_akedemisi1 (1)](https://github.com/user-attachments/assets/b8d437dd-016a-42ab-a980-a736d4f56b54) ----------      ![yazilim_akedemisi2](https://github.com/user-attachments/assets/a8dfd495-07a0-4cb4-bf6b-1ed37943d0ff)
+![yazilim_akedemisi1 (1)](https://github.com/user-attachments/assets/b8d437dd-016a-42ab-a980-a736d4f56b54) 
+
+-----------
+![yazilim_akedemisi2](https://github.com/user-attachments/assets/a8dfd495-07a0-4cb4-bf6b-1ed37943d0ff)
