@@ -6,7 +6,7 @@ As the screen size changes, the site content and navigation menu adapt to these 
 
 # Technologies
 <ul>
-	<li>HTML: Used to create the page structure.</li>
+	<li>HTML: Used to create the page structure. </li>
 	<li>CSS: Used for styling and responsive design.</li>
 </ul>
 
